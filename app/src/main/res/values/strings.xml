@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SusethSandoval Examen</string>
+    <string-array name="tipoLamparas">
+        <item>--Seleccionar--</item>
+        <item>Normales</item>
+        <item>Decorativas</item>
+        <item>Buro</item>
+    </string-array>
+</resources>
